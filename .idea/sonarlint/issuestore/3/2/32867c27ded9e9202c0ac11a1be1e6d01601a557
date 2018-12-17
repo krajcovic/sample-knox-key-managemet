@@ -1,0 +1,9 @@
+
+Rsquid:S1068"6Remove this unused "KERNEL_DEBUG_LEVEL" private field.(•ß¦Ú8ì“ùØÃ,
+Csquid:S1068"'Remove this unused "TAG" private field.(€ã€¹8ì“ùØÃ,
+‹"squid:ClassVariableVisibilityCheck"SMake contact a static final constant or non-public and provide accessors if needed.(‹áºçÿÿÿÿÿ8ì“ùØÃ,
+ksquid:HiddenFieldCheck"?Rename "transaction" which hides the field declared at line 45.(“¸§‡şÿÿÿÿ8ì“ùØÃ,
+‰"squid:ClassVariableVisibilityCheck"QMake cless a static final constant or non-public and provide accessors if needed.(ü•·ğùÿÿÿÿ8ì“ùØÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(—Ö°¹ÿÿÿÿÿ8ì“ùØÃ,
+e"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8ì“ùØÃ,
+Psquid:EmptyStatementUsageCheck"Remove this empty statement.(Åñ­õşÿÿÿÿ8ì“ùØÃ,

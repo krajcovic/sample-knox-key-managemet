@@ -1,0 +1,9 @@
+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‘íÔØÃ,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–×íÓ8‘íÔØÃ,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–×íÓ8‘íÔØÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(É¸ûÿÿÿÿÿ8ÌŞêØÃ,
+Vsquid:S2209"5Change this instance-reference to a static reference.(óÔñşÿÿÿÿ8‘íÔØÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¨Œä¸ùÿÿÿÿ8—´éØÃ,
+wsquid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(–×íÓ8‘íÔØÃ,
+e"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(ÖÒ˜Ùùÿÿÿÿ8‘íÔØÃ,

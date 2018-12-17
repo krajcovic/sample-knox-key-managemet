@@ -1,0 +1,12 @@
+
+fsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(”­ח,8­אה¹ֲ,
+gsquid:S1301"KReplace this "switch" statement by "if" statements to increase readability.(Ýÿֽ8­אה¹ֲ,
+Dsquid:S1148"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿ8­אה¹ֲ,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ן8­אה¹ֲ,
+|squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ֳ­ֵ‏ÿÿÿÿ8­אה¹ֲ,
+Dsquid:S1148"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿ8­אה¹ֲ,
+Dsquid:S1148"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿ8­אה¹ֲ,
+Dsquid:S1148"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿ8­אה¹ֲ,
+Dsquid:S1148"#Use a logger to log this exception.(€ֹװ…‎ÿÿÿÿ8­אה¹ֲ,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ן8­אה¹ֲ,
+esquid:S1871"IThis case's code block is the same as the block for the case on line 122.(ִ®ּנ8­אה¹ֲ,

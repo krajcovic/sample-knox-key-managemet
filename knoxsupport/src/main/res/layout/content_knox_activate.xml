@@ -1,0 +1,62 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:id="@+id/mainpage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context="cz.krajcovic.knoxsupport.KnoxActivateActivity">
+
+    <Button
+            android:id="@+id/CreateAndroidProfilebtn"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:layout_below="@+id/logview_id"
+            android:layout_centerHorizontal="true"
+            android:text="@string/android_po" />
+    <Button
+            android:id="@+id/ActivateLicenceFilebtn"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/CreateAndroidProfilebtn"
+            android:layout_below="@+id/CreateAndroidProfilebtn"
+            android:text="@string/activate_license_file" />
+
+    <Button
+            android:id="@+id/ActivateLicenceStringbtn"
+            android:layout_width="210dp"
+            android:enabled="false"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/ActivateLicenceFilebtn"
+            android:layout_below="@+id/ActivateLicenceFilebtn"
+            android:text="@string/activate_license_string" />
+
+    <Button
+            android:id="@+id/DeActivateLicencebtn"
+            android:layout_width="210dp"
+            android:layout_height="wrap_content"
+            android:layout_alignStart="@+id/ActivateLicenceStringbtn"
+            android:layout_below="@+id/ActivateLicenceStringbtn"
+            android:text="@string/deactivate_license" />
+
+    <!--<Button-->
+            <!--android:id="@+id/ToggleCamerabtn"-->
+            <!--android:layout_width="210dp"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_alignStart="@+id/DeActivateLicencebtn"-->
+            <!--android:layout_below="@+id/DeActivateLicencebtn"-->
+            <!--android:text="@string/grant_permission" />-->
+
+    <TextView
+            android:id="@+id/logview_id"
+            android:gravity="bottom"
+            android:layout_width="320dp"
+            android:layout_height="230dp"
+            android:textColor="#3F51B5"
+            android:background="@drawable/background"
+            android:scrollbars="vertical"
+            android:paddingLeft="10dp"
+            android:layout_marginTop="22dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+
+</RelativeLayout>

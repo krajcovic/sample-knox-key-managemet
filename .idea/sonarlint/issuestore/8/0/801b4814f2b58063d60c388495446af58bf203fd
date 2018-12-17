@@ -1,0 +1,50 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º°¤—ùÿÿÿÿ8¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ8¨Ç»Â,
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(ŒØœÇûÿÿÿÿ8¨Ç»Â,
+Vsquid:S2209"5Change this instance-reference to a static reference.(Õ¡Ô³þÿÿÿÿ8¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(–­ó–8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8‚¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¦íê‘ýÿÿÿÿ8¨Ç»Â,
+Vsquid:S2209"5Change this instance-reference to a static reference.(žðÌŒþÿÿÿÿ8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÉÎš8¨Ç»Â,
+]squid:S1854"<Remove this useless assignment to local variable "cardInfo".(®Ä¼Àþÿÿÿÿ8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¿Ÿßüúÿÿÿÿ8¨Ç»Â,
+\squid:S1854";Remove this useless assignment to local variable "apduReq".(¿’—ðøÿÿÿÿ8¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¼ƒ¢Õýÿÿÿÿ8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ª¯‘ˆ8¨Ç»Â,
+Msquid:S1481",Remove this unused "apduReq" local variable.(¨þñ¿ÿÿÿÿÿ8¨Ç»Â,
+Qsquid:S2209"5Change this instance-reference to a static reference.(²–¾Œ8¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(½Ÿç¼ýÿÿÿÿ8¨Ç»Â,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨Ç»Â,
+Qsquid:S2209"5Change this instance-reference to a static reference.(²–¾Œ8¨Ç»Â,
+psquid:S1192"ODefine a constant instead of duplicating this literal "1PAY.SYS.DDF01" 3 times.(ÃëƒÝúÿÿÿÿ8¨Ç»Â,
+Qsquid:S2209"5Change this instance-reference to a static reference.(ØÕ·ú8¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(åÆÚ–üÿÿÿÿ8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ8¨Ç»Â,
+Asquid:S3010"%Remove this assignment of "piccType".(æÁÃ‚8¨Ç»Â,
+Ysquid:S2589"8Remove this expression which always evaluates to "false"(úù×˜ÿÿÿÿÿ8¨Ç»Â,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(ø½–Ÿ8¨Ç»Â,
+Vsquid:S2209"5Change this instance-reference to a static reference.(÷…·ßýÿÿÿÿ8¨Ç»Â,
+\squid:S1854";Remove this useless assignment to local variable "apduReq".(¿’—ðøÿÿÿÿ8¨Ç»Â,
+csquid:S2259"BA "NullPointerException" could be thrown; "resp" is nullable here.(÷…·ßýÿÿÿÿ8¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŸÅÏú8¨Ç»Â,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(––û8¨Ç»Â,
+Bsquid:S1168"&Return an empty array instead of null.(¥¹ï8¨Ç»Â,
+csquid:S1192"GDefine a constant instead of duplicating this literal "remove" 3 times.(ÐÊ—¾8¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÓÖ¥ùÿÿÿÿ8¨Ç»Â,
+Vsquid:S2209"5Change this instance-reference to a static reference.(¢Î›žøÿÿÿÿ8¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(£Ì¦Œûÿÿÿÿ8¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹­áÖûÿÿÿÿ8¨Ç»Â,
+Dsquid:S1148"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ8¨Ç»Â,
+y
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ8¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹ÞöŠ8¨Ç»Â,

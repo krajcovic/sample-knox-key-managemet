@@ -1,0 +1,11 @@
+
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(ªëÆ8€¨Ç»Â,
+isquid:CommentedOutCodeLine
+"<This block of commented-out lines of code should be removed.(“šÈÌ8€¨Ç»Â,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º¥¾€øÿÿÿÿ8€¨Ç»Â,
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(º¥¾€øÿÿÿÿ8€¨Ç»Â,
+isquid:CommentedOutCodeLine$"<This block of commented-out lines of code should be removed.(’§¶ª8€¨Ç»Â,
+isquid:CommentedOutCodeLine("<This block of commented-out lines of code should be removed.(îÂáº8€¨Ç»Â,
+Ysquid:S2696"6Make the enclosing method "static" or remove this set.(²ìÛšşÿÿÿÿ8€¨Ç»Â,
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(ƒ„Äğ8€¨Ç»Â,
+Tsquid:S2696"6Make the enclosing method "static" or remove this set.(Ÿ¼â‰8€¨Ç»Â,

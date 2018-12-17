@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="cz.krajcovic.knoxsupport">
+
+    <uses-permission android:name="com.samsung.android.knox.permission.KNOX_HW_CONTROL" />
+
+    <application>
+        <activity
+                android:name=".KnoxActivateActivity"
+                android:label="@string/title_activity_knox_activate"
+                android:theme="@style/AppTheme.NoActionBar">
+        </activity>
+
+        <!-- Activate License TODO Provide receiver for Knox license activation results -->
+        <receiver android:name="cz.krajcovic.knoxsupport.MonetLicenseReceiver" >
+            <intent-filter>
+                <action android:name="com.samsung.android.knox.intent.action.KNOX_LICENSE_STATUS" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+
+
+</manifest>

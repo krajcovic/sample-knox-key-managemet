@@ -1,0 +1,15 @@
+
+Msquid:S1481",Remove this unused "message" local variable.(Ž–ŸÜÿÿÿÿÿ8ð²ÝµÃ,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(€½ˆr8ð²ÝµÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆÐíúÿÿÿÿ8ð²ÝµÃ,
+Jsquid:S1172")Remove this unused method parameter "id".(ó¾‚èûÿÿÿÿ8ð²ÝµÃ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( ùÌ¨8ð²ÝµÃ,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ó¾‚èûÿÿÿÿ8ð²ÝµÃ,
+Asquid:S2116"%Use "Arrays.toString(array)" instead.(ÔÀ¸æ8ð²ÝµÃ,
+zsquid:S1450"^Remove the "kernelCallbacks" field and declare it as a local variable in the relevant methods.(‚ÒöË8ð²ÝµÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Ë±«ùÿÿÿÿ8ð²ÝµÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(êÎ•ëÿÿÿÿÿ8ð²ÝµÃ,
+dsquid:S2583"CChange this condition so that it does not always evaluate to "true"(ÁÔÙÜøÿÿÿÿ8ð²ÝµÃ,
+fsquid:HiddenFieldCheck":Rename "kernel" which hides the field declared at line 32.(†ëšÉýÿÿÿÿ8ð²ÝµÃ,
+\squid:S1854";Remove this useless assignment to local variable "message".(Ž–ŸÜÿÿÿÿÿ8ð²ÝµÃ,
+Nsquid:S1199"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ8ð²ÝµÃ,

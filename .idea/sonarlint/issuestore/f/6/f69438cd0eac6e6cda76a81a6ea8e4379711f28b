@@ -1,0 +1,18 @@
+
+msquid:S00116I"NRename this field "INS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(üôä8Ñó‡Ø»,
+rsquid:S00116H"NRename this field "CLA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ò²úùÿÿÿÿ8Ñó‡Ø»,
+nsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(ï½ëªøÿÿÿÿ8Ñó‡Ø»,
+jsquid:CommentedOutCodeLineÆ"<This block of commented-out lines of code should be removed.(áŞàÿ8Ñó‡Ø»,
+ssquid:S1450"VRemove the "context" field and declare it as a local variable in the relevant methods.(êİç8Ñó‡Ø»,
+Jsquid:S1068	"'Remove this unused "TAG" private field.(¹˜¾Çøÿÿÿÿ8Ñó‡Ø»,
+osquid:CommentedOutCodeLineÏ"<This block of commented-out lines of code should be removed.(Á©¦’şÿÿÿÿ8Ñó‡Ø»,
+Nsquid:S1068"+Remove this unused "rspData" private field.(í»ü‘ıÿÿÿÿ8Ñó‡Ø»,
+^squid:S1854":Remove this useless assignment to local variable "offset".(ÀŞÿùÿÿÿÿ8Ñó‡Ø»,
+qsquid:ModifiersOrderCheck"EReorder the modifiers to comply with the Java Language Specification.(Ä™Ä¿8Ñó‡Ø»,
+lsquid:S00116N"MRename this field "Le" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶úŠ¬8Ñó‡Ø»,
+Hsquid:S1068"*Remove this unused "status" private field.(¤¾Êƒ8Ñó‡Ø»,
+jsquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(ñ’óÚ8Ñó‡Ø»,
+Hsquid:S1068"+Remove this unused "context" private field.(êİç8Ñó‡Ø»,
+qsquid:S00116K"MRename this field "P2" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÃØÔşÿÿÿÿ8Ñó‡Ø»,
+^squid:S1854„":Remove this useless assignment to local variable "offset".(úæò¶ıÿÿÿÿ8Ñó‡Ø»,
+lsquid:S00116J"MRename this field "P1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™‚«à8Ñó‡Ø»,

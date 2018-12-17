@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="cz.krajcovic.tokenlibrary">
+
+    <uses-permission android:name="android.permission.NFC" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <uses-permission android:name="com.samsung.android.knox.permission.KNOX_TIMA_KEYSTORE"/>
+</manifest>

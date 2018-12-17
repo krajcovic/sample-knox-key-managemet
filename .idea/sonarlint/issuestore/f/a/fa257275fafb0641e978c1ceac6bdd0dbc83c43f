@@ -1,0 +1,7 @@
+
+"squid:ClassVariableVisibilityCheck"RMake logStr a static final constant or non-public and provide accessors if needed.(««¶ϋÿÿÿÿ8σα‹‚»,
+Psquid:S1656"/Remove or correct this useless self-assignment.(ΕΎόÿÿÿÿÿ8σα‹‚»,
+[squid:S1118":Add a private constructor to hide the implicit public one.(®νύÿÿÿÿ8σα‹‚»,
+‚squid:S4165"aRemove this useless assignment; "dal" already holds the assigned value along all execution paths.(ΕΎόÿÿÿÿÿ8σα‹‚»,
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8σα‹‚»,
+Msquid:S1444",Make this "public static logStr" field final(««¶ϋÿÿÿÿ8σα‹‚»,

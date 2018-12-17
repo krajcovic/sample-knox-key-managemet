@@ -1,0 +1,6 @@
+
+isquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ŽÕ…€8ˆ¨Ç»Â,
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(îÂáº8ˆ¨Ç»Â,
+Š"squid:ClassVariableVisibilityCheck"UMake isRunning a static final constant or non-public and provide accessors if needed.(ÐøÃô8ˆ¨Ç»Â,
+^squid:S2134"@Don't extend "Thread", since the "run" method is not overridden.(¥Ð‡8ˆ¨Ç»Â,
+ˆsquid:S1845"jRename method "isRunning" to prevent any misunderstanding/clash with field "isRunning" defined on line 13.(èˆÔ±8ˆ¨Ç»Â,

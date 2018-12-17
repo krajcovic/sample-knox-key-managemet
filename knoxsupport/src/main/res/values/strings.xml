@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">knoxsupport</string>
+    <string name="title_activity_knox_activate">KnoxActivateActivity</string>
+    <string name="activate_license">ACTIVATE LICENSE</string>
+    <string name="grant_permission">GRANT PERMISSION</string>
+    <string name="api_level_message">This device does not meet the minimum requirements to run. API level %1$d detected.
+        Requires level %2$d.
+    </string>
+    <string name="android_po">CREATE PROFILE</string>
+    <string name="deactivate_license">DEACTIVATE LICENSE</string>
+    <string name="license_progress">Activating KLM license...</string>
+    <string name="deactivate_license_progress">Deactivating KLM license...</string>
+    <string name="camera_state">Set camera enabled to: %1$b</string>
+    <string name="no_intent">License activation intent is not available</string>
+    <string name="no_intent_action">License activation intent action is not available</string>
+    <string name="klm_activated_succesfully">KLM activated successfully</string>
+    <string name="err_klm_internal">KLM: Internal error</string>
+    <string name="err_klm_internal_server">KLM: Internal server error</string>
+    <string name="err_klm_licence_invalid_license">KLM: Invalid license</string>
+    <string name="err_klm_invalid_package_name">KLM: Invalid package name</string>
+    <string name="err_klm_licence_terminated">KLM: License terminated</string>
+    <string name="err_klm_network_disconnected">KLM: Network disconnected</string>
+    <string name="err_klm_network_general">KLM: Network general error</string>
+    <string name="err_klm_not_current_date">KLM: Not current date</string>
+    <string name="err_klm_null_params">KLM: NULL params</string>
+    <string name="err_klm_unknown">KLM: Error unknown</string>
+    <string name="err_klm_user_disagrees_license_agreement">KLM: User disagrees EULA</string>
+    <string name="err_klm_code_unknown">KLM: Error code unknown %1$s, status %2$s</string>
+    <string name="activate_license_file">ACTIVATE LICENSE FILE</string>
+    <string name="activate_license_string">ACTIVATE LICENSE STRING</string>
+</resources>

@@ -1,0 +1,9 @@
+
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(‰†πÄ8çªßŸ√,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ï√Ã≥¸ˇˇˇˇ8çªßŸ√,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥§¯≥8çªßŸ√,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‚—§ˇ˝ˇˇˇˇ8çªßŸ√,
+y
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(≥˜£∏˙ˇˇˇˇ8çªßŸ√,
+e"squid:ObjectFinalizeOverridenCheck"-Do not override the Object.finalize() method.(÷“òŸ˘ˇˇˇˇ8çªßŸ√,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˇ√ı≤˛ˇˇˇˇ8çªßŸ√,

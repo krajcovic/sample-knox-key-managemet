@@ -1,0 +1,21 @@
+
+_squid:CallToDeprecatedMethod"2Remove this use of "InstanceID"; it is deprecated.(ï²Å»8‹¨Ç»Â,
+Nsquid:S1135"2Complete the task associated to this TODO comment.(Àó‚´8‹¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆèŸÇÿÿÿÿÿ8‹¨Ç»Â,
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ž¼í 8‹¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ƒ‡úõ8‹¨Ç»Â,
+Nsquid:S1135"2Complete the task associated to this TODO comment.(ž¼í 8‹¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Š¦é×8‹¨Ç»Â,
+Csquid:S1214""Move constants to a class or enum.(×™´ªùÿÿÿÿ8‹¨Ç»Â,
+Vsquid:S2386"5Move "PROJECTION" to a class and lower its visibility(‡ÎÌÑùÿÿÿÿ8‹¨Ç»Â,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛÂ°!8‹¨Ç»Â,
+Nsquid:S1135"2Complete the task associated to this TODO comment.(Ö¾ã¯8‹¨Ç»Â,
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(Æ¿ú„8‹¨Ç»Â,
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´ç’8‹¨Ç»Â,
+bsquid:S2142"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8‹¨Ç»Â,
+osquid:MaximumInheritanceDepth"<This class has 7 parents which is greater than 5 authorized.(üåþ¨úÿÿÿÿ8‹¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´ß¦ÿ8‹¨Ç»Â,
+¢squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô¬ý¶ùÿÿÿÿ8‹¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾Þ€„8‹¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(´ç’8‹¨Ç»Â,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ÉÓÈìýÿÿÿÿ8‹¨Ç»Â,

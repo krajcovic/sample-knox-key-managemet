@@ -1,0 +1,24 @@
+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ÿ¤‡ûÿÿÿÿ8¼ÙÃ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ŞŸ—ù8¼ÙÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛÛÍóùÿÿÿÿ8¼ÙÃ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ìĞš±8¼ÙÃ,
+osquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(Ó ã§ùÿÿÿÿ8¼ÙÃ,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ºèÏÎÿÿÿÿÿ8¼ÙÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°Ä®šùÿÿÿÿ8¼ÙÃ,
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Çş®x8¼ÙÃ,
+Dsquid:S1185"(Remove this method to simply inherit it.(ÍÙ÷¢8¼ÙÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°Ä®šùÿÿÿÿ8¼ÙÃ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(»Õ°ğ8¼ÙÃ,
+]squid:S1854"<Remove this useless assignment to local variable "hexToken".(Î“şÿÿÿÿ8¼ÙÃ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ıÂî•8¼ÙÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°Ä®šùÿÿÿÿ8¼ÙÃ,
+]squid:UnusedPrivateMethod"3Remove this unused private "isTokenBlocked" method.(§ã½8¼ÙÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ª¢ˆ…ıÿÿÿÿ8¼ÙÃ,
+^squid:UnusedPrivateMethod"5Remove this unused private "saveLastCardData" method.(ë·ÑD8¼ÙÃ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(÷ï8¼ÙÃ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†€éˆ8¼ÙÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù¨Ñ¬üÿÿÿÿ8¼ÙÃ,
+]squid:S1854"BRemove this useless assignment to local variable "encryptedToken".(¡¤p8¼ÙÃ,
+ %squid:RedundantThrowsDeclarationCheck"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(Àıëá8¼ÙÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(°Ä®šùÿÿÿÿ8¼ÙÃ,

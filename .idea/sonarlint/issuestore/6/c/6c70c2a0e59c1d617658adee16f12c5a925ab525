@@ -1,0 +1,13 @@
+
+Nsquid:S1199"-Extract this nested code block into a method.(ˆºÉÞûÿÿÿÿ8ž”˜ÙÃ,
+‘"squid:SwitchLastCaseIsDefaultCheck"YComplete cases by adding the missing enum constants or add a default case to this switch.(Ö‘ò°úÿÿÿÿ8ž”˜ÙÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ù¨Ñ¬üÿÿÿÿ8ž”˜ÙÃ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸óÉÂþÿÿÿÿ8ž”˜ÙÃ,
+Isquid:S1199"-Extract this nested code block into a method.(€ÈÞ8ž”˜ÙÃ,
+Tsquid:S1854"8Remove this useless assignment to local variable "data".(Áº‰ª8ž”˜ÙÃ,
+Isquid:S1199"-Extract this nested code block into a method.(ïÊ’Þ8ž”˜ÙÃ,
+Esquid:S1481")Remove this unused "data" local variable.(Áº‰ª8ž”˜ÙÃ,
+Nsquid:S1199"-Extract this nested code block into a method.(Œ½¤·ÿÿÿÿÿ8ž”˜ÙÃ,
+Fsquid:S1068"*Remove this unused "config" private field.(éùŒ8ž”˜ÙÃ,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›Ñœ»8ž”˜ÙÃ,
+Ssquid:S1135"2Complete the task associated to this TODO comment.(ï’×°ýÿÿÿÿ8ŽÞ™ÙÃ,

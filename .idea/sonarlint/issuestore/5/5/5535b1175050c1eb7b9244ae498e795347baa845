@@ -1,0 +1,7 @@
+
+Wsquid:S2696"6Make the enclosing method "static" or remove this set.(ŸñØ•ùÿÿÿÿ8ï²İµÃ,
+xsquid:S1450"WRemove the "mPerData" field and declare it as a local variable in the relevant methods.(“Ç³øÿÿÿÿ8ï²İµÃ,
+Msquid:S1068",Remove this unused "mPerData" private field.(“Ç³øÿÿÿÿ8ï²İµÃ,
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Üûÿÿÿÿ8ï²İµÃ,
+ssquid:S1450"WRemove the "mContext" field and declare it as a local variable in the relevant methods.(ºñÙ’8ï²İµÃ,
+lsquid:S1192"KDefine a constant instead of duplicating this literal "Exception:" 3 times.(¿£æ«úÿÿÿÿ8ï²İµÃ,

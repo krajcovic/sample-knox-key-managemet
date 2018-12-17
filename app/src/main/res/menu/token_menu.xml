@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/upload_token_keys"
+          android:title="@string/upload_token_keys"
+    />
+    <item android:id="@+id/delete_token_keys"
+          android:title="@string/delete_token_keys"
+    />
+</menu>

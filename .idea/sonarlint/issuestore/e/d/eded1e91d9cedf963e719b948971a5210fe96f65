@@ -1,0 +1,22 @@
+
+`squid:S2278"?Use the recommended AES (Advanced Encryption Standard) instead.(åöÑ¥ûÿÿÿÿ8‚¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(„ÃÜÊ8‚¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(úÔé¬üÿÿÿÿ8‚¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ±™Œ8‚¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‚¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(İõä8‚¨Ç»Â,
+fsquid:S2147"ECombine this catch with the one at line 125, which has the same body.(©Ë¸Ãşÿÿÿÿ8‚¨Ç»Â,
+asquid:S2147"ECombine this catch with the one at line 125, which has the same body.(çŞ¡Ğ8‚¨Ç»Â,
+\squid:S1068";Remove this unused "SECRET_TOKEN_KEY_MASTER" private field.(Ì—ëğûÿÿÿÿ8‚¨Ç»Â,
+fsquid:S2147"ECombine this catch with the one at line 125, which has the same body.(£İ´›ùÿÿÿÿ8‚¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÍùÅ‹8‚¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ±™Œ8‚¨Ç»Â,
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(áÚÙÖ8‚¨Ç»Â,
+fsquid:S2147"ECombine this catch with the one at line 125, which has the same body.(½å€ùûÿÿÿÿ8‚¨Ç»Â,
+[squid:S1118":Add a private constructor to hide the implicit public one.(¡¥ò­ûÿÿÿÿ8‚¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.( €ä„ÿÿÿÿÿ8‚¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8‚¨Ç»Â,
+`squid:S2147"ECombine this catch with the one at line 125, which has the same body.(ÿÒ„p8‚¨Ç»Â,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‹ÇÓ‹üÿÿÿÿ8‚¨Ç»Â,
+asquid:S2147"ECombine this catch with the one at line 125, which has the same body.(Ë‡…¨8‚¨Ç»Â,
+ysquid:S1192"XDefine a constant instead of duplicating this literal "Cannnot create SW token" 7 times.(ñƒô´ıÿÿÿÿ8‚¨Ç»Â,
